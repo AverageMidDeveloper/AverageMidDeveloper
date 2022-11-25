@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AverageMidDeveloper
-- 👀 I’m interested in Lots of things lmao
-- 🌱 I’m currently learning HTML/JavaScript/Java
+- 👀 I’m interested in music, art, game development.
+- 🌱 I’m currently learning Java, C#, C++ and unity.
  
 
 <!---
